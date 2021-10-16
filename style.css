@@ -1,0 +1,125 @@
+body {
+
+    background-color:#aaaaaa;
+    margin: 10px;
+    
+}
+
+#cabeca {
+
+    background-color:#444444;
+    display: block; 
+    margin: 0px;
+}
+
+#topo {
+
+    display: block;
+    text-align: center;
+    color: #cccccc;
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 10px;
+    padding-top: 6px
+}
+
+.subtopo1 {
+
+    display: block;
+    margin: 1px;
+    padding-bottom: 1px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.subtopo2 {
+
+    display: block;
+    margin: 1px;
+    padding-bottom: 12px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.subtitulo {
+
+    display: block;
+    margin: 50px;
+    text-align: center;
+    color: black;
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.supra1 {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: inline;
+    text-align: center;
+}
+
+.v1a {
+    color: #FFCE00;
+    margin-bottom: 0px;
+}
+
+.v2a {
+    color: #EA3700;
+    margin-bottom: 0px;
+}
+
+.v3a {
+    color: rgba(24, 182, 10, 0.667);
+    margin-bottom: 0px;
+}
+
+.v4a {
+    color: #8700EA;
+    margin-bottom: 0px;
+}
+
+.vb {
+    width: 600px;
+    margin: auto;
+}
+
+.v {
+    margin: 5px;
+}
+
+.v0 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.v00 {
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+.v000 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.foot {
+
+    background-color:#444444;
+    display: block; 
+    padding: 10px
+    
+}
+
+.footing {
+
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 16px;
+    margin: 2px
+
+}
